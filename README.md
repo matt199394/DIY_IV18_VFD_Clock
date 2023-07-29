@@ -6,3 +6,5 @@ Code taken from https://www.valvewizard.co.uk/iv18clock.html and sightly  modifi
 Have fun!
 
 Matteo
+
+![PCBfrontView](https://github.com/matt199394/DIY_IV18_VFD_Clock/assets/65487240/26b33b60-741a-4f5a-bff6-f0453fcbe3f6)
