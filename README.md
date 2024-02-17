@@ -2,7 +2,7 @@
 IV18 VFD tube clock
 
 Code taken from https://www.valvewizard.co.uk/iv18clock.html and slightly modified to operate with two ULN2803 instesad of three ILQ615 and a bunch of resistances :)
-Link to a see the clock in action https://www.youtube.com/watch?v=z5U7QRysOuc
+To see the clock in action https://www.youtube.com/watch?v=z5U7QRysOuc
 
 Have fun!
 
